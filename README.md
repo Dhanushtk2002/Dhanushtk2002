@@ -1,25 +1,24 @@
-<h1 align="center">Hi 👋, I'm Dhanush</h1>
-
-<h3 align="center">A passionate Full Stack Developer</h3>
-
-<hr>
-
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-<img src="https://komarev.com/ghpvc/?username=Dhanushtk2002&label=Profile%20views&color=0e75b6&style=flat" />
+# Hi 👋 I'm Dhanush
 
-<br><br>
+- React Developer
+- MERN Stack Learner
+- Full Stack Developer
 
-- 💬 Ask me about **React, Node.js, Express.js, MongoDB**
+</td>
 
-- 🌱 I’m currently learning **MERN Stack**
+<td width="50%" align="center">
 
-- ⚡ Fun fact: **I think I'm a Developer 😄**
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Developer.gif" width="400"/>
 
-<br>
+</td>
+
+</tr>
+</table>
 
 <h3>🌐 Connect with me:</h3>
 
