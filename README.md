@@ -15,7 +15,7 @@ src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 💬 Ask me about **React, Node.js, Express.js, MongoDB**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently working in **MERN Stack**
 
 - ⚡ Fun fact: **I think I'm a Developer 😄**
 
